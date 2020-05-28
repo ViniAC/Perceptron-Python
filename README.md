@@ -1,7 +1,7 @@
 # Perceptron-Python
 Perceptron on python
 
-Simple Perceptron made on Python
+Simple Perceptron made in Python
 
 
 Made with:
